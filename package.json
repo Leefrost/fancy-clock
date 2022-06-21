@@ -1,0 +1,9 @@
+{
+  "name": "fancy-clock",
+  "version": "0.0.1",
+  "description": "Fancy clock",
+  "main": "index.js",
+  "repository": "https://github.com/Leefrost/fancy-clock",
+  "author": "Serhii Lischuk",
+  "license": "MIT"
+}
